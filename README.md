@@ -32,4 +32,4 @@
 设备兼容好：手机、平板、电脑皆可极速播放。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/inn234/54655 ）</span>
